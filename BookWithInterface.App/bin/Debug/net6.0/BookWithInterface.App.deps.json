@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BookWithInterface.App/1.0.0": {
+        "dependencies": {
+          "BookWithInterface.Core": "1.0.0"
+        },
+        "runtime": {
+          "BookWithInterface.App.dll": {}
+        }
+      },
+      "BookWithInterface.Core/1.0.0": {
+        "runtime": {
+          "BookWithInterface.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BookWithInterface.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BookWithInterface.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

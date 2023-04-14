@@ -1,0 +1,12 @@
+C:\Users\babay\source\repos\BookWithInterface.App\BookWithInterface.Core\bin\Debug\net6.0\BookWithInterface.Core.deps.json
+C:\Users\babay\source\repos\BookWithInterface.App\BookWithInterface.Core\bin\Debug\net6.0\BookWithInterface.Core.dll
+C:\Users\babay\source\repos\BookWithInterface.App\BookWithInterface.Core\bin\Debug\net6.0\BookWithInterface.Core.pdb
+C:\Users\babay\source\repos\BookWithInterface.App\BookWithInterface.Core\obj\Debug\net6.0\BookWithInterface.Core.csproj.AssemblyReference.cache
+C:\Users\babay\source\repos\BookWithInterface.App\BookWithInterface.Core\obj\Debug\net6.0\BookWithInterface.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\babay\source\repos\BookWithInterface.App\BookWithInterface.Core\obj\Debug\net6.0\BookWithInterface.Core.AssemblyInfoInputs.cache
+C:\Users\babay\source\repos\BookWithInterface.App\BookWithInterface.Core\obj\Debug\net6.0\BookWithInterface.Core.AssemblyInfo.cs
+C:\Users\babay\source\repos\BookWithInterface.App\BookWithInterface.Core\obj\Debug\net6.0\BookWithInterface.Core.csproj.CoreCompileInputs.cache
+C:\Users\babay\source\repos\BookWithInterface.App\BookWithInterface.Core\obj\Debug\net6.0\BookWithInterface.Core.dll
+C:\Users\babay\source\repos\BookWithInterface.App\BookWithInterface.Core\obj\Debug\net6.0\refint\BookWithInterface.Core.dll
+C:\Users\babay\source\repos\BookWithInterface.App\BookWithInterface.Core\obj\Debug\net6.0\BookWithInterface.Core.pdb
+C:\Users\babay\source\repos\BookWithInterface.App\BookWithInterface.Core\obj\Debug\net6.0\ref\BookWithInterface.Core.dll
